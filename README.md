@@ -1,0 +1,2 @@
+# ghq
+vscode配置
